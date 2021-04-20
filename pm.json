@@ -1,1 +1,7 @@
-poolMetaData.json 
+{
+  "name": "CCATALYST",
+  "ticker": "CCATA",
+  "description": "Crypto catalyst cardano Pool (Zurich - CH)",
+  "homepage": "https://cryptocatalyst.com",
+  "nonce": "1618918821"
+}
