@@ -1,16 +1,15 @@
 {
   "info": {
-    "url_png_icon_64x64": "https://crypto-catalyst.com/img/brand/logo_64_64.png",
-    "url_png_logo": "https://crypto-catalyst.com/img/brand/logo_cc.png",
+    "url_png_icon_64x64": "https://profiler.biz/images/brand/logo_icon_64x64",
+    "url_png_logo": "https://profiler.biz/images/brand/profiler.png",
     "location": "Switzerland",
     "social": {
-      "twitter_handle": "HT__Moh",
-      "telegram_handle": "cryptocatalyst0",
-      "facebook_handle": "cryptocatalyst0",
+      "twitter_handle": "@ProfilerBiz",
+      "telegram_handle": "profilerbiz",
       "github_handle": "HT-Moh"
     },
     "about": {
-      "me": "Moh Software engineer with a long experience and entrepreneur mindset, & Flu creativity, design, Marketing and many other awesome skills, together we are the swiss knife",
+      "me": "Moh Software engineer with a long experience and entrepreneur mindset",
       "server": "Backups + Switzerland Hosting (bare-metal + VS) + Firewall +  Mnitored 24/7 + Redundancy"
     }
   }
